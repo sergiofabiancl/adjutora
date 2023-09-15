@@ -2,8 +2,8 @@ import requests
 import json
 
 # Configura tus credenciales de Slack
-slack_token = 'xoxb-3051778989206-5894686187792-D7l0hSbMFJsHOlrL8G8XzkIs'
-channel_id = 'C03232114JD'
+slack_token = ''
+channel_id = ''
 
 # URL de la API de Slack para enviar mensajes
 slack_api_url = 'https://slack.com/api/chat.postMessage'
